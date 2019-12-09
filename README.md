@@ -2,7 +2,7 @@
 
 ## Example HTML
 
-...
+```
 <div class="section">
     <div class="section__row">
       <div class="section__card">
@@ -12,11 +12,11 @@
       </div>
     </div>
   </div>
-...
+```
 
 ## Example on SASS
 
-...
+```
 .section{
   @include container;
 
@@ -31,4 +31,4 @@
     }
   }
 }
-...
+```
