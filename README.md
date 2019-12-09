@@ -1,6 +1,6 @@
 # Boostrap 4 Grid with sass @mixin
 
-## Example HTML
+## Example on HTML
 
 ```
 <div class="section">
