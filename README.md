@@ -1,1 +1,1 @@
-# Boostrap 4 with sass @mixinx
+# Boostrap 4 with sass @mixin
