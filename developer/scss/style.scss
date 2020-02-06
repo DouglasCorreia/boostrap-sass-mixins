@@ -1,0 +1,18 @@
+@import 'base/reset';
+@import 'base/grid';
+
+.title{
+    @include container;
+  
+    .title__row{
+      @include make-row;
+  
+      .title__grid{
+        @include make-xs-column(12);
+        @include make-lg-column(12);
+        @include text-align-center();
+        font-size: 2em;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+    }
+  }
