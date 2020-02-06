@@ -1,4 +1,6 @@
-# Boostrap 4 Grid with sass @mixin
+# Grid with SASS
+
+## Getting Started
 
 ## Example on HTML
 
